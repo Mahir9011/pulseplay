@@ -1,0 +1,40 @@
+# Flutter-specific files
+/build/
+.dart_tool/
+*.iml
+*.log
+
+# Android-specific
+/android/app/build/
+/android/build/
+
+# Desktop platforms (Windows and Linux)
+/windows/flutter/ephemeral/
+/linux/flutter/ephemeral/
+
+# Generated files
+*.gen
+*.lock
+*.tmp
+*.obj
+*.o
+*.bin
+
+# IDE-specific files
+.idea/
+
+# Python-specific files (if Python scripts are included)
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other unnecessary files
+*.bak
+*.swp
+*.swo
+*.log
+*.tmp
